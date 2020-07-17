@@ -8,14 +8,14 @@ const Footer = () => (
         <p>
           Maintainer:{" "}
           <a href="https://github.com/kyrcha">Kyriakos Chatzidimitriou</a> |{" "}
-          <a href="https://github.com/kyrcha/npm-miner/issues">Issues</a>
+          <a href="https://github.com/kyrcha/npm-miner-gc/issues">Issues</a>
         </p>
         <p>
           <GitHubButton
-            href="https://github.com/kyrcha/npm-miner"
+            href="https://github.com/kyrcha/npm-miner-gc"
             data-icon="octicon-star"
             data-show-count="true"
-            aria-label="Star kyrcha/npm-miner on GitHub"
+            aria-label="Star kyrcha/npm-miner-gc on GitHub"
           >
             Star
           </GitHubButton>

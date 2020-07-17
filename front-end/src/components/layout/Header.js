@@ -16,7 +16,6 @@ function Header() {
           </Link>
 
           <button
-            role="button"
             className="navbar-burger burger"
             aria-label="menu"
             aria-expanded="false"
@@ -35,7 +34,10 @@ function Header() {
           <Link className="navbar-item" to="/about">
             About
           </Link>
-          <a className="navbar-item" href="https://github.com/kyrcha/npm-miner">
+          <a
+            className="navbar-item"
+            href="https://github.com/kyrcha/npm-miner-gc"
+          >
             GitHub*
           </a>
         </div>
