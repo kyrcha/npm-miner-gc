@@ -1,0 +1,3 @@
+cron:
+  - description: "Crawl every 10 mins"
+    url: /api/tasks/crawl
