@@ -30,7 +30,7 @@
     "lodash": "^4.17.19",
     "morgan": "^1.10.0",
     "nano": "^8.2.2",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   },
   "devDependencies": {
     "@figify/eslint-config": "^1.0.0",
